@@ -1,0 +1,66 @@
+.Menu{
+	width: 100%;
+	height: 70px;
+	background-color: black;	
+}
+.Main_Page{
+	height: 70px;
+	width: 24%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Main_Page:hover{
+	color: orange;
+}
+.Seasons{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Seasons:hover{
+	color: orange;
+}
+.Characters{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Characters:hover{
+	color: orange;
+}
+.Watch_Here{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Watch_Here:hover{
+	color: orange;
+}
+.Header{
+	height: 900px;
+	width: 100%;
+	background-image: url(https://images8.alphacoders.com/387/387003.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+
+}
+.Music{
+	margin-left:94%;
+	margin-top: 30px;
+	height: 60px;
+	width: 60px;
+	border-radius: 150px;
+	background-color: grey;
+	font-size: 40px;
+}

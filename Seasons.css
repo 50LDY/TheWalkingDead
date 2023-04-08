@@ -1,0 +1,165 @@
+.Menu{
+	width: 100%;
+	height: 70px;
+	background-color: black;	
+}
+.Main_Page{
+	height: 70px;
+	width: 24%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Main_Page:hover{
+	color: orange;
+}
+.Seasons{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Seasons:hover{
+	color: orange;
+}
+.Characters{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Characters:hover{
+	color: orange;
+}
+.Watch_Here{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Watch_Here:hover{
+	color: orange;
+}
+.Header{
+	height: 2000px;
+	width: 100%;
+	background-image: url(https://images5.alphacoders.com/314/314356.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-attachment: fixed;
+}
+.Sezona_1{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	opacity: 0.7;
+}
+.Sezona_2{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_3{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_4{width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_5{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_6{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_7{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_8{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_9{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_10{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.Sezona_11{
+	width: 98%;
+	background-color: gray;
+	padding-left: 10px;
+	border-radius:5px;
+	border:2px solid orange; 
+	margin-left: 10px;
+	margin-top: 10px;
+	opacity: 0.7;
+}

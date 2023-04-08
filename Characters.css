@@ -1,0 +1,254 @@
+.Menu{
+	width: 100%;
+	height: 70px;
+	background-color: black;	
+}
+.Main_Page{
+	height: 70px;
+	width: 24%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Main_Page:hover{
+	color: orange;
+}
+.Seasons{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Seasons:hover{
+	color: orange;
+}
+.Characters{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Characters:hover{
+	color: orange;
+}
+.Watch_Here{
+	height: 70px;
+	width: 25%;
+	font-family: fantasy;
+	font-size: 40px;
+	background-color: black;
+	color: white;
+}
+.Watch_Here:hover{
+	color: orange;
+}
+.Header{
+	height: 900px;
+	width: 100%;
+	background-image: url(https://images8.alphacoders.com/651/651709.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+.rick_grimes{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 14px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.negan_smith{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.daryl_dixon{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.shane_walsh{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.carl_grimes{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.lori_grimes{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.morgan_jones{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.glenn_rhee{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.theodore_douglas{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.Dugme_1{
+	margin-left: 45px;
+}
+.Dugme_2{
+	margin-left: 85px;
+}
+.Dugme_3{
+	margin-left: 89px;
+}
+.Dugme_4{
+	margin-left: 89px;
+}
+.Dugme_5{
+	margin-left: 89px;
+}
+.Dugme_6{
+	margin-left: 90px;
+}
+.Dugme_7{
+	margin-left: 89px;
+}
+.Dugme_8{
+	margin-left: 87px;
+}
+.Dugme_9{
+	margin-left: 69px;
+}
+.dale_horvath{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 14px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.jacqui{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.jim{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.carol_peletier{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.sophia_peletier{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.ed_peletier{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.andrea_harrison{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.amy_harrison{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.morales{
+	height: 200px;
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 19px;
+	margin-bottom: 10px;
+}
+.dugme_11{
+	margin-left: 42px;
+}
+.dugme_12{
+	margin-left: 105px;
+}
+.dugme_13{
+	margin-left: 135px;
+}
+.dugme_14{
+	margin-left: 112px;
+}
+.dugme_15{
+	margin-left: 77px;
+}
+.dugme_16{
+	margin-left: 86px;
+}
+.dugme_17{
+	margin-left: 80px;
+}
+.dugme_18{
+	margin-left: 74px;
+}
+.dugme_19{
+	margin-left: 100px;
+}
